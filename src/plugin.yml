@@ -1,0 +1,12 @@
+name: WHT
+version: 1.0
+author: Eclipse (EclipseBETA)
+main: github.EclipseBETA.wht.Main
+description: Plugin that print Why hello / bye there when execute /hello(hi) or /bye
+
+commands:
+  hello:
+  	aliases: [hi]
+  	description: Why hello there
+  bye:
+  	description: Why bye there
